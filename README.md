@@ -16,7 +16,7 @@ Welcome to **My First NPM Package**! This is an experimental project where I cre
 The project is a simple npm package that contains a reusable `MyButton` React component. It comes with built-in styles for a basic button design, but the button is customizable via props such as `title` and `onClick`. Additionally, I created this package as an experiment to understand how to create, package, and publish npm packages.
 
 ### Key Features:
-- **React component**: A simple button component built with React.
+- **React component**: A simple button component built with React.  
 - **CSS styling**: Basic styles for the button component.
 - **TypeScript support**: Type definitions to enhance development experience.
 - **Modular**: The button can be easily imported into any React project and customized as needed.
@@ -25,7 +25,7 @@ The project is a simple npm package that contains a reusable `MyButton` React co
 
 To install and use the package in your project, follow the steps below:
 **Install via npm**:
-   Run the following command to install the package:
+Run the following command to install the package:
 
-   ```bash
-   npm install @david_aslanyan/my-first-lib
+```bash
+npm install @david_aslanyan/my-first-lib
